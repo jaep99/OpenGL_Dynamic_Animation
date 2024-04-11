@@ -556,7 +556,6 @@ int main( void )
         ////// End of rendering of the fourth object //////
         
         // Rectangle
-        // 추가한거
         glUniform1f(JustGreen, 1);
         
         // Model matrix : an identity matrix (model will be at the origin)
