@@ -7,7 +7,7 @@ C++ application that uses custom classes with OpenGL and ASSIMP library to load 
 <br>Objects also include random ambient and diffuse lightning effects. 
 
 
-## [Basic Control Instuction]
+## [Basic Control Instruction]
 - Camera view is initially point towards the center of the scene.
 - Press the up/down arrow key to zoom in and out.
 - Press the left/right arrow key to rotate either the camera view or the models left and right.
