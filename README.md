@@ -1,5 +1,5 @@
 # Georgia Institute of Technology
-ECE 4122 Final Project
+ECE 4122 Advanced Programming Final Project
 
 C++ application that uses custom classes with OpenGL and ASSIMP library to load and display Suzanne's 3D animation.
 <br>
